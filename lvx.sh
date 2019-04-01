@@ -17,3 +17,4 @@ fi
 else 
 echo "invalid"
 fi
+echo "end of the program"
